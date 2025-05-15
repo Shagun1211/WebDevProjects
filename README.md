@@ -1,7 +1,5 @@
 Frontend Development Projects
 
-This repository contains the frontend development projects I completed as part of my internship with [Oasis Infobyte](https://oasisinfobyte.com) under the **OIBSIP (Oasis Infobyte Internship Program)**. Each project demonstrates my understanding of HTML, CSS, JavaScript, and responsive web design.
-
  🔗 Projects Included
 
  1. 🚀 Landing Page
