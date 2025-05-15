@@ -1,0 +1,90 @@
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: #f9f9f9;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  background: #282c34;
+  color: white;
+  padding: 40px 0;
+  text-align: center;
+}
+
+/* Navigation */
+nav {
+  background: #444;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+nav a:hover {
+  background: #666;
+  border-radius: 4px;
+}
+
+/* Sections */
+section {
+  padding: 40px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Projects */
+.project {
+  margin-bottom: 20px;
+}
+
+/* Skills */
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  background: #e3e3e3;
+  padding: 8px 12px;
+  border-radius: 4px;
+}
+
+/* Footer */
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 0.9em;
+}
