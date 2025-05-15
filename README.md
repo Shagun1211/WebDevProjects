@@ -30,6 +30,3 @@ An interactive temperature converter tool that allows users to convert values be
 This repository is open-source and available under the [MIT License](LICENSE).
 
 ---
-
- 🙌 Acknowledgment
-Thank you to [Oasis Infobyte](https://oasisinfobyte.com) for the internship opportunity and for supporting aspiring developers through hands-on learning.
